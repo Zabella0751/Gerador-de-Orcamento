@@ -6,7 +6,7 @@ Um gerador automático de orçamentos em pdf.
 - Canva
 
 ## Template do pdf
-Um template simples que foi feito por mim usando a ferramenta do Canva. 
+Um template simples que foi feito por mim usando a ferramenta do Canva, baseado em outro template. 
 
 ## Sobre o Projeto
 Este projeto consiste em um gerador de orçamentos totalmente desenvolvido em Python, projetado para simplificar o processo de criação de orçamentos profissionais. Com ele, é possível gerar documentos em PDF prontos para envio ao cliente, agilizando e automatizando as etapas que costumam ser demoradas e suscetíveis a erros quando feitas manualmente.
