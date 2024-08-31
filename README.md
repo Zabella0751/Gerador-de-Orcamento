@@ -35,7 +35,7 @@ Este projeto consiste em um gerador de orçamentos totalmente desenvolvido em Py
    ```
 
 5. Instale as Dependências:
-   - Certifique-se de que você tem, nos eu editor de código, o pacote fpdf instalado. Caso não tenha, pode instalá-lo assim:
+   - Certifique-se de que você tem, no seu editor de código, o pacote fpdf instalado. Caso não tenha, pode instalá-lo assim:
      
    ```
    pip install fpdf
