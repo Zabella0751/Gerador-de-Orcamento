@@ -5,11 +5,13 @@ Um gerador automático de orçamentos em PDF, desenvolvido durante a Semana do P
 - Python
 - Canva
 
-## Template do pdf
+## Template do PDF
 Um template simples que foi feito por mim usando a ferramenta do Canva, baseado em outro template. 
 
 ## Sobre o Projeto
 Este projeto consiste em um gerador de orçamentos totalmente desenvolvido em Python, projetado para simplificar o processo de criação de orçamentos profissionais. Com ele, é possível gerar documentos em PDF prontos para envio ao cliente, agilizando e automatizando as etapas que costumam ser demoradas e suscetíveis a erros quando feitas manualmente.
+
+- Poucas mudanças foram feitas no projeto original, sendo ela a criação de outro template de pdf e o ajuste para que os dados ficassem dentro da caixa de informações no pdf.
 
 ## Funcionalidades
 - Gerar orçamentos automáticos.
@@ -25,17 +27,19 @@ Este projeto consiste em um gerador de orçamentos totalmente desenvolvido em Py
    Em seguida instale no seu computador.
 
 3. Clone o Repositório:
+   
    ```
    https://github.com/Zabella0751/Gerador-de-Orcamento.git
    ```
 
 4. Navegue até o Diretório:
+   
    ```
    cd Gerador-de-Orcamento
    ```
 
 5. Instale as Dependências:
-   - Certifique-se de que você tem, no seu editor de código, o pacote fpdf instalado. Caso não tenha, pode instalá-lo assim:
+   - Certifique-se de que você tem, no seu editor de código, o pacote fpdf instalado. Caso não tenha, pode instalá-lo pelo terminal do seu editor de código assim:
      
    ```
    pip install fpdf
