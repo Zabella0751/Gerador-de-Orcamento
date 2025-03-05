@@ -1,5 +1,5 @@
 # Gerador de Orçamento
-Um gerador automático de orçamentos em pdf.
+Um gerador automático de orçamentos em PDF, desenvolvido durante a Semana do Python na Prática, promovida pela Empowerdata.
 
 ## Tecnologias Utilizadas
 - Python
